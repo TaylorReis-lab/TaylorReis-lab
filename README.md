@@ -22,17 +22,14 @@ This is the space where I spend most of my time where, imagination and creativit
 </a>
 </p>
 <br />
-<br />
 
 
 <p align="left">
  <br />
  Languages and Tools:
  </p>
-<br />
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" max-heigth="100%">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" max-heigth="100%">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" max-heigth="100%"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" max-heigth="100%">
 
 ![Taylor Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorReis-lab&show_icons=true&theme=transparent)
 <br>

@@ -32,7 +32,7 @@ This is the space where I dedicate most of my time, where imagination and creati
 <h1 align="center">My Skill</h1> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,git,py,ts,js,html,css,angular,sequelize,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,git,py,ts,js,angular,sequelize,docker" />
   </a>
 </p>
 

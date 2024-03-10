@@ -36,6 +36,4 @@ This is the space where I dedicate most of my time, where imagination and creati
   </a>
 </p>
 
-![Taylor Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorReis-lab&show_icons=true&theme=transparent)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorReis-lab&layout=compact)
+![Taylor Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorReis-lab&show_icons=true&theme=dark#gh-dark-mode-only)

@@ -20,6 +20,9 @@ This is the space where I dedicate most of my time, where imagination and creati
 <a href="https://www.linkedin.com/in/edmilson-t-reis/">
 <img align="left" alt="LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+ <a href="https://taylorreis.netlify.app">
+  <img align="left" alt="icon-portifolio" width="24px" src="https://cdn-icons-png.flaticon.com/512/11245/11245598.png"/>
+ </a>
 </p>
 <br />
 

@@ -17,11 +17,11 @@ This is the space where I dedicate most of my time, where imagination and creati
 <a  href="https://www.instagram.com/taylor__reis" target="_blank">
 <img  align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="https://www.linkedin.com/in/edmilson-t-reis/"  target="_blank">
+<a href="https://www.linkedin.com/in/taylor--reis/"  target="_blank">
 <img align="left" alt="LinkedIn" width="22px" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
- <a href="https://taylorreis.netlify.app" target="_blank" >
-  <img align="left" alt="icon-portifolio" width="24px" src="https://cdn-icons-png.flaticon.com/512/11245/11245598.png"/>
+ 🌐  <a href="https://taylorreis.netlify.app" target="_blank" >
+   [Portfólio]
  </a>
 </p>
 <br />

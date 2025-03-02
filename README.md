@@ -1,34 +1,31 @@
-### Hi there :bowtie:
+### Olá there :bowtie:
 
-I'm Taylor Reis, a developer with a passion for technology! 🚀
+Sou Taylor Reis, um desenvolvedor apaixonado, sempre buscando explorar novas tecnologias e criar soluções inovadoras. 🚀
 
-This is the space where I dedicate most of my time, where imagination and creativity become code.
-
-
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/taylor--reis/)
-- 📫 You can contact me at:  [@taylor__reis](https://www.instagram.com/taylor__reis);
-
+Este é meu espaço digital, onde dou vida às ideias por meio do código. Seja no desenvolvimento web, automação ou sistemas backend, estou sempre pronto para o desafio!
 
 <br />
 
-### Connect with me:
+### 📫 Entre em Contato:
 
-<p> - 💬 Feel free to ask me anything on <a href="https://www.linkedin.com/in/taylor--reis/"  target="_parent">Linkedin</a> </p>
-<p> - 📷 Follow me on <a href="https://www.instagram.com/taylor__reis"  target="blank">Instagram</a> </p>
-<p> - 🌐 Check out my <a href="https://taylorreis.netlify.app" target="_blank" >Portfolio</a> </p>
+<p> - 💬 Fique à vontade para conversar comigo no <a href="https://www.linkedin.com/in/taylor--reis/"  target="_parent">Linkedin</a> </p>
+<p> - 📷 Me siga no <a href="https://www.instagram.com/taylor__reis"  target="blank">Instagram</a> </p>
+<p> - 🌐 Confira meu <a href="https://taylorreis.netlify.app" target="_blank" >Portfolio</a> </p>
 
 <br />
 
 
-<h1 align="center">🚀 Tech Stack & Tools</h1> 
+<h1 align="center">🚀 Tecnologias & Ferramentas</h1> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,git,py,ts,js,angular,sequelize,docker" />
   </a>
 </p>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">📊 Estatísticas do GitHub</h1>
 
 ![Taylor Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorReis-lab&show_icons=true&theme=dark#gh-dark-mode-only)
 
-![Taylor Reis GitHub stats]( https://github-readme-stats.vercel.app/api/top-langs?username=TaylorReis-lab&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only)
+![Taylor Reis GitHub stats]( https://github-readme-stats.vercel.app/api/top-langs?username=TaylorReis-lab&layout=compact&langs_count=8&card_width=400&theme=dark#gh-dark-mode-only)
+
+<p align="center">🔗 Vamos construir algo incrível juntos!</p>

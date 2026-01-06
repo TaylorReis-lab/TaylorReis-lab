@@ -1,31 +1,47 @@
-### Olá there :bowtie:
+### Olá, eu sou o Taylor Reis 👋
 
-Sou Taylor Reis, um desenvolvedor apaixonado, sempre buscando explorar novas tecnologias e criar soluções inovadoras. 🚀
+Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e por transformar ideias em **soluções funcionais e escaláveis** 🚀  
+Atuo no desenvolvimento de aplicações web, APIs, automações e sistemas backend, sempre buscando boas práticas, código limpo e performance.
 
-Este é meu espaço digital, onde dou vida às ideias por meio do código. Seja no desenvolvimento web, automação ou sistemas backend, estou sempre pronto para o desafio!
+Este é meu espaço para compartilhar projetos, aprender continuamente e colaborar em desafios reais.
 
-<br />
+---
 
-### 📫 Entre em Contato:
+### 💼 O que eu faço
+- 🌐 Desenvolvimento Web (Front-end & Back-end)
+- ⚙️ APIs REST e sistemas backend
+- 🤖 Automações e scripts
+- 🧩 Integração com bancos de dados e serviços
 
-<p> - 💬 Fique à vontade para conversar comigo no <a href="https://www.linkedin.com/in/taylor--reis/"  target="_parent">Linkedin</a> </p>
-<p> - 📷 Me siga no <a href="https://www.instagram.com/taylor__reis"  target="blank">Instagram</a> </p>
-<p> - 🌐 Confira meu <a href="https://taylorreis.netlify.app" target="_blank" >Portfolio</a> </p>
+---
 
-<br />
+### 📫 Entre em contato
+- 💬 LinkedIn: <a href="https://www.linkedin.com/in/taylor--reis/" target="_blank">linkedin.com/in/taylor--reis</a>  
+- 📷 Instagram: <a href="https://www.instagram.com/taylor__reis" target="_blank">@taylor__reis</a>  
+- 🌐 Portfólio: <a href="https://taylorreis.netlify.app" target="_blank">taylorreis.netlify.app</a>
 
+---
 
-<h1 align="center">🚀 Tecnologias & Ferramentas</h1> 
+<h2 align="center">🚀 Tecnologias & Ferramentas</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,git,py,ts,js,angular,sequelize,docker" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,py,sequelize,docker,git" />
 </p>
 
-<h1 align="center">📊 Estatísticas do GitHub</h1>
+---
 
-![Taylor Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorReis-lab&show_icons=true&theme=dark#gh-dark-mode-only)
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
-![Taylor Reis GitHub stats]( https://github-readme-stats.vercel.app/api/top-langs?username=TaylorReis-lab&layout=compact&langs_count=8&card_width=400&theme=dark#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaylorReis-lab&show_icons=true&theme=dark" />
+</p>
 
-<p align="center">🔗 Vamos construir algo incrível juntos!</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TaylorReis-lab&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+🔗 <strong>Aberto a freelances, colaborações e novos desafios.</strong><br/>
+Vamos construir algo incrível juntos!
+</p>

@@ -27,6 +27,23 @@ Este é meu espaço para compartilhar projetos, aprender continuamente e colabor
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,py,sequelize,docker,git" />
 </p>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=TaylorReis-lab&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>

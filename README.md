@@ -71,9 +71,10 @@ Este é meu espaço para compartilhar projetos, aprender continuamente e colabor
 </div>
 
 ###
-<div align="center">
-</div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TaylorReis-lab.TaylorReis-lab&"  />
+</div>
 ###
 
 <picture>

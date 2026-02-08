@@ -1,77 +1,92 @@
-# Taylor Reis
+### Olá, eu sou o Taylor Reis 👋
 
-**Full-Stack Developer** | São Paulo, Brasil
+Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e por transformar ideias em **soluções funcionais e escaláveis** 🚀  
+Atuo no desenvolvimento de aplicações web, APIs, automações e sistemas backend, sempre buscando boas práticas, código limpo e performance.
 
-Desenvolvedor especializado em criar soluções web escalavéis e performantes, com foco em arquitetura limpa, boas práticas e entrega de valor.
-
----
-
-## Stack Principal
-
-**Frontend:** React, TypeScript, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, Python, Flask  
-**Mobile:** React Native, Expo  
-**Database:** MongoDB, PostgreSQL, MySQL  
-**DevOps:** Docker, GitHub Actions, Vercel, AWS  
+Este é meu espaço para compartilhar projetos, aprender continuamente e colaborar em desafios reais.
 
 ---
 
-## Projetos em Destaque
-
-### [WhatsApp Bot](https://github.com/TaylorReis-lab/whatsapp-bot)
-Bot inteligente de auto-resposta para WhatsApp com comandos customizados.  
-**Stack:** JavaScript, Node.js, WhatsApp Web API  
-![Stars](https://img.shields.io/github/stars/TaylorReis-lab/whatsapp-bot?style=flat-square)
-
-### [DevMach](https://github.com/TaylorReis-lab/DevMach)
-Plataforma para conectar desenvolvedores baseado em tech stack e interesses.  
-**Stack:** React 19, TypeScript, Tailwind 4, Vite  
-[Demo](https://devmach.vercel.app)
-
-### [CashFlow System](https://github.com/TaylorReis-lab/APPCashFlow)
-Sistema fullstack de controle financeiro com App Mobile e API REST separados.  
-**Stack:** React, Node.js, Express, MongoDB, Docker  
-
-### [FinexaAPI](https://github.com/TaylorReis-lab/FinexaAPI)
-API REST profissional de gestão financeira com arquitetura MVC e autenticação JWT.  
-**Stack:** Node.js, Express, MongoDB, Docker  
-
-### [LookApp](https://github.com/TaylorReis-lab/LookApp)
-Aplicativo mobile de catálogo de roupas para varejo de moda.  
-**Stack:** React Native, TypeScript, Styled Components  
-
-[Ver mais projetos »](https://github.com/TaylorReis-lab?tab=repositories)
+### 💼 O que eu faço
+- 🌐 Desenvolvimento Web (Front-end & Back-end)
+- ⚙️ APIs REST e sistemas backend
+- 🤖 Automações e scripts
+- 🧩 Integração com bancos de dados e serviços
 
 ---
 
-## Sobre
+### 📫 Entre em contato
+- 💬 LinkedIn: <a href="https://www.linkedin.com/in/taylor--reis/" target="_blank">linkedin.com/in/taylor--reis</a>  
+- 📷 Instagram: <a href="https://www.instagram.com/taylor__reis" target="_blank">@taylor__reis</a>  
+- 🌐 Portfólio: <a href="https://taylorreis.netlify.app" target="_blank">taylorreis.netlify.app</a>
 
-Atuo no desenvolvimento de aplicações web, APIs REST, sistemas backend e automações. Sempre buscando código limpo, performance e as melhores práticas de engenharia de software.
+<h2 align="center">🚀 Tecnologias & Ferramentas</h2>
 
-- 💻 Desenvolvendo **APIs REST** e **apps mobile** profissionais
-- 🔧 Experiencia com **arquitetura MVC**, **microserviços** e **clean code**
-- 🚀 Focado em **entregas de qualidade** e **código mantenível**
-- 📚 Aprendendo continuamente **Docker**, **AWS** e **arquitetura de software**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="60" alt="ionic logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
 
----
+###
 
-## GitHub Stats
+<div align="center">
+  <a href="https://www.linkedin.com/in/taylorreis-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/603384607529762816" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://signal.me/#eu/_hU56h7yNME5tlOoPByNRLWzJVUk14FTQU__WybpxDK1tfNmqTJEprLpxWy_Q_OG" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
+  </a>
+  <a href="mailto:taylor-reis@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.paypal.com/invoice/p/#6F7YXY6N9R3XCAS2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  </a>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorReis-lab&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorReis-lab&layout=compact&theme=default&hide_border=true&langs_count=6)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TaylorReis-lab.TaylorReis-lab&"  />
+</div>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph.svg">
+</picture>
 
-## Contato
-
-📧 **Email:** [taylor-reis@outlook.com](mailto:taylor-reis@outlook.com)  
-🔗 **LinkedIn:** [linkedin.com/in/taylor--reis](https://www.linkedin.com/in/taylor--reis/)  
-🌐 **Portfolio:** [taylorreis.netlify.app](https://taylorreis.netlify.app)  
-💬 **Discord:** Disponível mediante solicitação  
-
+###
 ---
 
 <p align="center">
-  <i>Aberto a freelances, colaborações e novos desafios.</i>
+🔗 <strong>Aberto a freelances, colaborações e novos desafios.</strong><br/>
+Vamos construir algo incrível juntos!
 </p>

@@ -24,7 +24,7 @@ Este é meu espaço para compartilhar projetos, aprender continuamente e colabor
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />

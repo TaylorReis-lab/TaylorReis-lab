@@ -16,7 +16,7 @@ Este é meu espaço para compartilhar projetos, aprender continuamente e colabor
 ---
 
 ### 📫 Entre em contato
-- 💬 LinkedIn: <a href="https://www.linkedin.com/in/taylor--reis/" target="_blank">linkedin.com/in/taylor--reis</a>  
+- 💬 LinkedIn: <a href="https://www.linkedin.com/in/taylorreis-dev" target="_blank">linkedin.com/in/taylorreis-dev</a>  
 - 📷 Instagram: <a href="https://www.instagram.com/taylor__reis" target="_blank">@taylor__reis</a>  
 - 🌐 Portfólio: <a href="https://taylorreis.netlify.app" target="_blank">taylorreis.netlify.app</a>
 

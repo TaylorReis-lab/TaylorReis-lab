@@ -75,16 +75,6 @@ Este é meu espaço para compartilhar projetos, aprender continuamente e colabor
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TaylorReis-lab.TaylorReis-lab&"  />
 </div>
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TaylorReis-lab/TaylorReis-lab/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
 
 <p align="center">
 🔗 <strong>Aberto a freelances, colaborações e novos desafios.</strong><br/>

@@ -1,81 +1,94 @@
-### Olá, eu sou o Taylor Reis 👋
+<!-- ====================================================== -->
+<!-- HEADER -->
+<!-- ====================================================== -->
 
-Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e por transformar ideias em **soluções funcionais e escaláveis** 🚀  
-Atuo no desenvolvimento de aplicações web, APIs, automações e sistemas backend, sempre buscando boas práticas, código limpo e performance.
+<h1 align="center">
+  👋 Olá, eu sou Taylor Reis
+</h1>
 
-Este é meu espaço para compartilhar projetos, aprender continuamente e colaborar em desafios reais.
+<p align="center">
+  <strong>Desenvolvedor Full Stack</strong> • React • Node.js • TypeScript • Python
+</p>
+
+<p align="center">
+  Transformando ideias em soluções funcionais, escaláveis e bem estruturadas. 🚀
+</p>
 
 ---
 
-### 💼 O que eu faço
-- 🌐 Desenvolvimento Web (Front-end & Back-end)
+## 👨‍💻 Sobre mim
+
+Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e por transformar
+ideias em **soluções funcionais e escaláveis**.
+
+Atuo no desenvolvimento de aplicações web, APIs, automações e sistemas
+backend, sempre buscando boas práticas, código limpo e performance.
+
+Este é meu espaço para compartilhar projetos, aprender continuamente
+e colaborar em desafios reais.
+
+---
+
+## 💼 O que eu faço
+
+- 🌐 Desenvolvimento Web — Front-end & Back-end
 - ⚙️ APIs REST e sistemas backend
 - 🤖 Automações e scripts
 - 🧩 Integração com bancos de dados e serviços
+- 🐳 Docker e ambientes de desenvolvimento
+- ☁️ Integração com serviços em nuvem
 
 ---
 
-### 📫 Entre em contato
-- 💬 LinkedIn: <a href="https://www.linkedin.com/in/taylorreis-dev" target="_blank">linkedin.com/in/taylorreis-dev</a>  
-- 📷 Instagram: <a href="https://www.instagram.com/taylor__reis" target="_blank">@taylor__reis</a>  
-- 🌐 Portfólio: <a href="https://taylorreis.netlify.app" target="_blank">taylorreis.netlify.app</a>
-
-<h2 align="center">🚀 Tecnologias & Ferramentas</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="55" alt="insomnia logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="CSharp logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="55" alt="lua logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="55" alt="ionic logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="55" alt="gitlab logo"  />
-  <img width="10" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/taylorreis-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/603384607529762816" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://signal.me/#eu/_hU56h7yNME5tlOoPByNRLWzJVUk14FTQU__WybpxDK1tfNmqTJEprLpxWy_Q_OG" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
-  </a>
-  <a href="mailto:taylor-reis@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://www.paypal.com/invoice/p/#6F7YXY6N9R3XCAS2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TaylorReis-lab.TaylorReis-lab&"  />
-</div>
+## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-🔗 <strong>Aberto a freelances, colaborações e novos desafios.</strong><br/>
-Vamos construir algo incrível juntos!
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,django,cs,dotnet,postgres,mongodb,docker,aws,git,linux" />
+</p>
+
+---
+
+## 📂 Projetos
+
+> Meus principais projetos estão disponíveis nos meus repositórios.
+
+### ⭐ Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **Finexa** | Aplicação para gerenciamento financeiro | React, TypeScript |
+| **Nolan** | Assistente pessoal | Python |
+| **MindGuard** | Ferramenta para controle de conteúdo | React Native |
+| **Order Management API** | API para gerenciamento de pedidos | NestJS, PostgreSQL, Kafka |
+
+---
+
+## 📫 Entre em contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/taylorreis-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://taylorreis.netlify.app">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="mailto:taylor-reis@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+  <div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=TaylorReis-lab.TaylorReis-lab&" /> </div>
+</p>
+
+---
+
+<p align="center">
+  🔗 <strong>Aberto a freelances, colaborações e novos desafios.</strong>
+  <br>
+  Vamos construir algo incrível juntos!
 </p>
